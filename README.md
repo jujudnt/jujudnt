@@ -19,7 +19,9 @@ interfaces.
 | --- | --- |
 | [AI Ticket Triage Lab](https://github.com/jujudnt/ai-ticket-triage-lab) | Text classification, explainable predictions, tested Python code |
 | [RAG Retrieval Evaluator](https://github.com/jujudnt/rag-retrieval-evaluator) | BM25 retrieval, evaluation metrics, AI system validation |
+| [GCP FinOps Inspector](https://github.com/jujudnt/gcp-finops-inspector) | Cloud billing analysis, forecasting, FinOps recommendations |
 | [CSV Data Quality Profiler](https://github.com/jujudnt/csv-data-quality-profiler) | Data profiling, schema inference, CLI design |
+| [Real Estate Cashflow Simulator](https://github.com/jujudnt/real-estate-cashflow-simulator) | Streamlit data app, loan simulation, map-based market assumptions |
 | [Event Pipeline Simulator](https://github.com/jujudnt/event-pipeline-simulator) | Streaming-style event processing, backend/data engineering |
 
 ## Toolbox
@@ -36,4 +38,3 @@ engineering discipline meet.
 ---
 
 Open to AI engineering, data engineering and software engineering roles.
-
